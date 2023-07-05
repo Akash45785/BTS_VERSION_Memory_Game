@@ -21,7 +21,7 @@ body {
 .memory-game{
 
   width  : 510px;
-  height : 510px;
+  height : 535px;
   padding : auto ;
   margin : auto ;
   display : flex;
@@ -48,8 +48,8 @@ body {
 }
 
 .front-face, .back-face {
-  width :100%;
-  height :125%;
+  width :90%;
+  height :100%;
   padding :20px;
   position : absolute;
   border-radius: 5px;
